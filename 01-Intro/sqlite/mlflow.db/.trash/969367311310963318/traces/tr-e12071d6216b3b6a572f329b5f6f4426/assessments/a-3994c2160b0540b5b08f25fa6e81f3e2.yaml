@@ -1,0 +1,14 @@
+assessment_id: a-3994c2160b0540b5b08f25fa6e81f3e2
+assessment_name: expected_response
+create_time: '2026-03-28T18:30:52.258Z'
+expectation:
+  value: Build image with `mlflow models build-docker`, push to registry, deploy with
+    K8s manifests. Container exposes /invocations endpoint.
+last_update_time: '2026-03-28T18:30:52.258Z'
+metadata:
+  demo: 'true'
+source:
+  source_id: demo_annotator
+  source_type: HUMAN
+trace_id: tr-e12071d6216b3b6a572f329b5f6f4426
+valid: true

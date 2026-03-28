@@ -1,0 +1,13 @@
+artifact_location: /workspaces/mlsops-zoomcamp/01-Intro/sqlite/mlflow.db/969367311310963318
+creation_time: 1774722649110
+experiment_id: '969367311310963318'
+last_update_time: 1774722772883
+lifecycle_stage: deleted
+name: MLflow Demo
+tags:
+  mlflow.demo.version.DemoFeature.PROMPTS: '1'
+  mlflow.demo.version.DemoFeature.TRACES: '1'
+  mlflow.experimentKind: genai_development
+  mlflow.note.content: Sample experiment with pre-populated demo data including traces,
+    evaluations, and prompts. Explore MLflow's GenAI features with this experiment.
+workspace: default
